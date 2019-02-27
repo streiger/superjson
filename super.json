@@ -1,0 +1,34 @@
+{
+	"couch": {
+		"cost": 20,
+		"size": {
+			"small": "1",
+			"medium": "1.2",
+			"large": "1.5"
+		}
+	},
+	"chair": {
+		"cost": 5,
+		"size": {
+			"small": "1",
+			"medium": "1.2",
+			"large": "1.5"
+		}
+	},
+	"table": {
+		"cost": 20,
+		"size": {
+			"small": "1",
+			"medium": "1.2",
+			"large": "1.5"
+		}
+	},
+	"tv": {
+		"cost": 10,
+		"size": {
+			"small": "1",
+			"medium": "1.2",
+			"large": "1.5"
+		}
+	}
+}
